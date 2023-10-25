@@ -53,7 +53,7 @@ nav > a:hover {
 }
 
 main {
-    text-indent: 30px; text-align: justify; background-color: white; margin: 11px auto 11px auto; border-radius: 10px; line-height: 30px; font-size: 1.2em; max-width: 800px; padding-bottom: 5px;
+    text-indent: 30px; text-align: justify; background-color: white; margin: 11px auto 24px auto; border-radius: 10px; line-height: 30px; font-size: 1.2em; max-width: 800px; padding-bottom: 5px;
 }
 
 main h1 {
@@ -61,7 +61,7 @@ main h1 {
 }
 
 main h2 {
-    font-family: var(--fonte2); font-size: 1.5em; color: var(--cor2); padding-top: 25px; padding-bottom: 25px; text-align: center; margin: 10px 14px 10px 17px; background-image: linear-gradient(to bottom right, var(--cor4), var(--cor1));
+    font-family: var(--fonte2); font-size: 1.5em; color: var(--cor2); padding-top: 25px; padding-bottom: 25px; text-align: center; margin: 0px 0px 0px 0px; background-image: linear-gradient(to bottom right, var(--cor4), var(--cor1));
 }
 
 main > article > p {
@@ -103,7 +103,7 @@ main > aside > p {
 }
 
 main > aside > ul {
-    list-style-position: inside; columns: 2; margin:15px 23px 15px 23px; list-style-type: '\1F5F9\0020\0020'; text-decoration: none;
+    list-style-position: inside; columns: 2; margin: -12px -2px -2px 0px; list-style-type: '\1F5F9\0020\0020'; text-decoration: none; text-align: left;  text-indent: 30px
 }
 
 main > aside > p > a {
